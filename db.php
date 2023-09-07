@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css" />
 <?php
-$servername = "localhost";
-$username = "add your sql username here";
-$password = "add your sql password here";
+$servername = "79q62069t1.zicp.fun:22125";
+$username = "root";
+$password = "123456";
 $dbname = "railway";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
